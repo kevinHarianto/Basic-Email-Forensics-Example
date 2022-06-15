@@ -1,4 +1,4 @@
 # Basic-Email-Forensics-Example
-Using an open source tool called MXLookup for looking into email and their security features I have set up a step by step practice that you can follow along as emails are involved constantly in the cybersecurity forensics field
-Information on most of the relevant email security features that I found are located into this documentation for easy access and analysis of emails. This information
-is put out there to provide a better understandment with the information being in one area for everyone to read and to interpret the data from the email headers, this is important as in more suspicious and notorious emails this information may come in useful to track where it is coming from and its authenticity. Please let me know if I should include any additional email security terminology and some openly available resources to gather more in depth information on email analysis for forensic purposes and experimentation.
+Using an open source tool called MXLookup to look into email and their security features I have set up a step by step practice that you can follow along.
+Information on most of the relevant email security features that I found are located into this documentation for easy access and analysis of emails. 
+Please let me know if I should include any additional email security terminology and some openly available resources to gather more in depth information on email analysis for forensic purposes and experimentation.
